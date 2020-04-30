@@ -1,4 +1,4 @@
-# modules-are-wonderful
+# Modules are Wonderful
 React App where we are showing the marvellous world of the modules. A new paradigm that could fit in most of the iOS Native Apps
 
 Below you will find some information on how to perform common tasks.<br>
